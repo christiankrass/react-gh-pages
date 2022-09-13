@@ -1,17 +1,30 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.c4986dd5.css",
-    "main.js": "/react-gh-pages/static/js/main.686f9f3c.js",
+    "main.js": "/react-gh-pages/static/js/main.4d0958b8.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
     "static/media/background1.jpg": "/react-gh-pages/static/media/background1.f2573bd74254fe1407e9.jpg",
     "static/media/background2.jpg": "/react-gh-pages/static/media/background2.8ca3d910fc317ff4b529.jpg",
+    "static/media/Abitur.png": "/react-gh-pages/static/media/Abitur.8dde544a7707eb491da9.png",
+    "static/media/Tribute-Page.png": "/react-gh-pages/static/media/Tribute-Page.362afacae41e6425c6f1.png",
+    "static/media/Praktikum.jpeg": "/react-gh-pages/static/media/Praktikum.b29929eb15c323a34bc4.jpeg",
+    "static/media/Softwarepro1.jpeg": "/react-gh-pages/static/media/Softwarepro1.4241abaeac2ade0ace4c.jpeg",
+    "static/media/SAP.jpeg": "/react-gh-pages/static/media/SAP.6c7b989c003d36c4860b.jpeg",
+    "static/media/Softwarepro2.jpeg": "/react-gh-pages/static/media/Softwarepro2.c23f9b0beea5135c326b.jpeg",
+    "static/media/Tech-Doc-Page.png": "/react-gh-pages/static/media/Tech-Doc-Page.c548a942673d2300f26e.png",
+    "static/media/WI2.png": "/react-gh-pages/static/media/WI2.3aae7bc63bfa0f6eaabb.png",
+    "static/media/WI1.png": "/react-gh-pages/static/media/WI1.9e86ebcf6a93940961b6.png",
+    "static/media/JavaScript-Algorithms-and-Data-Structures.png": "/react-gh-pages/static/media/JavaScript-Algorithms-and-Data-Structures.f5882b78f221a115c14f.png",
+    "static/media/Responsive-Design.png": "/react-gh-pages/static/media/Responsive-Design.1bbe23458f413c0584a0.png",
+    "static/media/SoftwareproIMG1.png": "/react-gh-pages/static/media/SoftwareproIMG1.79ce1266f679c81435e8.png",
+    "static/media/Survery-Form.png": "/react-gh-pages/static/media/Survery-Form.3570d9067547731801e2.png",
     "index.html": "/react-gh-pages/index.html",
     "main.c4986dd5.css.map": "/react-gh-pages/static/css/main.c4986dd5.css.map",
-    "main.686f9f3c.js.map": "/react-gh-pages/static/js/main.686f9f3c.js.map",
+    "main.4d0958b8.js.map": "/react-gh-pages/static/js/main.4d0958b8.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4986dd5.css",
-    "static/js/main.686f9f3c.js"
+    "static/js/main.4d0958b8.js"
   ]
 }
