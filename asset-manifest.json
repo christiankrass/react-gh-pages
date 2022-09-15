@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.bdd7d24c.css",
-    "main.js": "/react-gh-pages/static/js/main.763ee069.js",
+    "main.css": "/react-gh-pages/static/css/main.17334c3a.css",
+    "main.js": "/react-gh-pages/static/js/main.4f94386c.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
     "static/media/background1.jpg": "/react-gh-pages/static/media/background1.f2573bd74254fe1407e9.jpg",
     "static/media/background2.jpg": "/react-gh-pages/static/media/background2.8ca3d910fc317ff4b529.jpg",
@@ -15,15 +15,20 @@
     "static/media/WI2.png": "/react-gh-pages/static/media/WI2.3aae7bc63bfa0f6eaabb.png",
     "static/media/WI1.png": "/react-gh-pages/static/media/WI1.9e86ebcf6a93940961b6.png",
     "static/media/JavaScript-Algorithms-and-Data-Structures.png": "/react-gh-pages/static/media/JavaScript-Algorithms-and-Data-Structures.f5882b78f221a115c14f.png",
+    "static/media/MarkdownPreviewer.png": "/react-gh-pages/static/media/MarkdownPreviewer.1e68c311395fcda1e78a.png",
     "static/media/Responsive-Design.png": "/react-gh-pages/static/media/Responsive-Design.1bbe23458f413c0584a0.png",
     "static/media/SoftwareproIMG1.png": "/react-gh-pages/static/media/SoftwareproIMG1.79ce1266f679c81435e8.png",
+    "static/media/QuoteMachine.png": "/react-gh-pages/static/media/QuoteMachine.0f48b060f8a860735093.png",
+    "static/media/25+5Clock.png": "/react-gh-pages/static/media/25+5Clock.fb24bada900391c6c0cc.png",
+    "static/media/Calculator.png": "/react-gh-pages/static/media/Calculator.5aa19946ac70cbfb638f.png",
+    "static/media/DrumMachine.png": "/react-gh-pages/static/media/DrumMachine.7e708d7b5fd64bfa7347.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.bdd7d24c.css.map": "/react-gh-pages/static/css/main.bdd7d24c.css.map",
-    "main.763ee069.js.map": "/react-gh-pages/static/js/main.763ee069.js.map",
+    "main.17334c3a.css.map": "/react-gh-pages/static/css/main.17334c3a.css.map",
+    "main.4f94386c.js.map": "/react-gh-pages/static/js/main.4f94386c.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdd7d24c.css",
-    "static/js/main.763ee069.js"
+    "static/css/main.17334c3a.css",
+    "static/js/main.4f94386c.js"
   ]
 }
