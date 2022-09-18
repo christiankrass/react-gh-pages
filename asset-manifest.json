@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.3864da63.css",
-    "main.js": "/react-gh-pages/static/js/main.6299b07d.js",
+    "main.css": "/react-gh-pages/static/css/main.55e69691.css",
+    "main.js": "/react-gh-pages/static/js/main.07d25f70.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
     "static/media/background1.jpg": "/react-gh-pages/static/media/background1.f2573bd74254fe1407e9.jpg",
     "static/media/C&Q.pdf": "/react-gh-pages/static/media/C&Q.f03b918497eaf621fb29.pdf",
@@ -23,12 +23,12 @@
     "static/media/Calculator.png": "/react-gh-pages/static/media/Calculator.5aa19946ac70cbfb638f.png",
     "static/media/DrumMachine.png": "/react-gh-pages/static/media/DrumMachine.7e708d7b5fd64bfa7347.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.3864da63.css.map": "/react-gh-pages/static/css/main.3864da63.css.map",
-    "main.6299b07d.js.map": "/react-gh-pages/static/js/main.6299b07d.js.map",
+    "main.55e69691.css.map": "/react-gh-pages/static/css/main.55e69691.css.map",
+    "main.07d25f70.js.map": "/react-gh-pages/static/js/main.07d25f70.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3864da63.css",
-    "static/js/main.6299b07d.js"
+    "static/css/main.55e69691.css",
+    "static/js/main.07d25f70.js"
   ]
 }
