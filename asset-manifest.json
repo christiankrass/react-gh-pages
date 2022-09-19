@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.55e69691.css",
-    "main.js": "/react-gh-pages/static/js/main.07d25f70.js",
+    "main.css": "/react-gh-pages/static/css/main.1830b078.css",
+    "main.js": "/react-gh-pages/static/js/main.4c377907.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "static/media/background1.jpg": "/react-gh-pages/static/media/background1.f2573bd74254fe1407e9.jpg",
     "static/media/C&Q.pdf": "/react-gh-pages/static/media/C&Q.f03b918497eaf621fb29.pdf",
-    "static/media/background2.jpg": "/react-gh-pages/static/media/background2.8ca3d910fc317ff4b529.jpg",
+    "static/media/background1.jpg": "/react-gh-pages/static/media/background1.a71ee665c0390ef45da4.jpg",
+    "static/media/background2.jpg": "/react-gh-pages/static/media/background2.473670236c739347eada.jpg",
     "static/media/Tribute-Page.png": "/react-gh-pages/static/media/Tribute-Page.362afacae41e6425c6f1.png",
     "static/media/Praktikum.jpeg": "/react-gh-pages/static/media/Praktikum.b29929eb15c323a34bc4.jpeg",
     "static/media/Softwarepro1.jpeg": "/react-gh-pages/static/media/Softwarepro1.4241abaeac2ade0ace4c.jpeg",
@@ -23,12 +23,12 @@
     "static/media/Calculator.png": "/react-gh-pages/static/media/Calculator.5aa19946ac70cbfb638f.png",
     "static/media/DrumMachine.png": "/react-gh-pages/static/media/DrumMachine.7e708d7b5fd64bfa7347.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.55e69691.css.map": "/react-gh-pages/static/css/main.55e69691.css.map",
-    "main.07d25f70.js.map": "/react-gh-pages/static/js/main.07d25f70.js.map",
+    "main.1830b078.css.map": "/react-gh-pages/static/css/main.1830b078.css.map",
+    "main.4c377907.js.map": "/react-gh-pages/static/js/main.4c377907.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55e69691.css",
-    "static/js/main.07d25f70.js"
+    "static/css/main.1830b078.css",
+    "static/js/main.4c377907.js"
   ]
 }
