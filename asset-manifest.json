@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.62d1b13a.css",
+    "main.css": "/react-gh-pages/static/css/main.1a965f9d.css",
     "main.js": "/react-gh-pages/static/js/main.3f266ecc.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
     "static/media/C&Q.pdf": "/react-gh-pages/static/media/C&Q.200e49f6eb0af0d9cb09.pdf",
@@ -23,12 +23,12 @@
     "static/media/Responsive-Design.png": "/react-gh-pages/static/media/Responsive-Design.9be813429b4988b6ba7d.png",
     "static/media/SoftwareproIMG1.png": "/react-gh-pages/static/media/SoftwareproIMG1.ca0172350d98c6163a9f.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.62d1b13a.css.map": "/react-gh-pages/static/css/main.62d1b13a.css.map",
+    "main.1a965f9d.css.map": "/react-gh-pages/static/css/main.1a965f9d.css.map",
     "main.3f266ecc.js.map": "/react-gh-pages/static/js/main.3f266ecc.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62d1b13a.css",
+    "static/css/main.1a965f9d.css",
     "static/js/main.3f266ecc.js"
   ]
 }
